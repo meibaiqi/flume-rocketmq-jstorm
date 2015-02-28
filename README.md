@@ -1,0 +1,2 @@
+# flume-rocketmq-jstorm
+flume采集系统日志写入rocketmq，jstorm从rocketmq拉取消息判断是否是异常日志，是异常日志则发送邮件
